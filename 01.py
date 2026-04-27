@@ -1,8 +1,8 @@
 #1 - Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B é mostre se a soma é menor que C.
 
-valor_a = float(input("Digite o valor de A: "))
-valor_b = float(input("Digite o valor de B: "))
-valor_c = float(input("Digite o valor de C: "))
+valor_a = float(input("Digite o valor de A:3 "))
+valor_b = float(input("Digite o valor de B:2 "))
+valor_c = float(input("Digite o valor de C:1"))
 
 soma_ab = valor_a + valor_b
 
